@@ -1,13 +1,13 @@
-# 🏥 Heart Disease Prediction (87.5% Accuracy)
+# 🏥 Heart Disease Prediction (82.4% Accuracy)
 
 **Medical ML Project | Day 3 | 303 Patients | Random Forest Best**
 
 ## 📊 Results Table
 | Model          | Test Accuracy |
 |----------------|---------------|
-| **Random Forest** | **87.5%** 🎯 |
-| Logistic Reg   | 84.4%         |
-| Decision Tree  | 81.2%         |
+| **Random Forest** | **82.4%** 🎯 |
+| Logistic Reg   | 81.3%         |
+| Decision Tree  | 73.6%         |
 
 ## 🚀 Quick Start (30 Seconds)
 ```bash
